@@ -1,0 +1,194 @@
+
+taxikid_cars.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+car6
+  rotate: false
+  xy: 1, 768
+  size: 112, 247
+  orig: 112, 247
+  offset: 0, 0
+  index: -1
+car1
+  rotate: false
+  xy: 1, 523
+  size: 98, 243
+  orig: 98, 243
+  offset: 0, 0
+  index: -1
+car12
+  rotate: false
+  xy: 115, 772
+  size: 98, 243
+  orig: 98, 243
+  offset: 0, 0
+  index: -1
+car17
+  rotate: false
+  xy: 215, 823
+  size: 102, 192
+  orig: 102, 192
+  offset: 0, 0
+  index: -1
+car16
+  rotate: false
+  xy: 319, 827
+  size: 106, 188
+  orig: 106, 188
+  offset: 0, 0
+  index: -1
+car14
+  rotate: false
+  xy: 427, 827
+  size: 104, 188
+  orig: 104, 188
+  offset: 0, 0
+  index: -1
+car13
+  rotate: false
+  xy: 533, 826
+  size: 104, 189
+  orig: 104, 189
+  offset: 0, 0
+  index: -1
+car15
+  rotate: false
+  xy: 639, 826
+  size: 103, 189
+  orig: 103, 189
+  offset: 0, 0
+  index: -1
+car18
+  rotate: false
+  xy: 744, 826
+  size: 103, 189
+  orig: 103, 189
+  offset: 0, 0
+  index: -1
+car8
+  rotate: false
+  xy: 849, 832
+  size: 101, 183
+  orig: 101, 183
+  offset: 0, 0
+  index: -1
+car7
+  rotate: false
+  xy: 1, 340
+  size: 96, 181
+  orig: 96, 181
+  offset: 0, 0
+  index: -1
+car25
+  rotate: false
+  xy: 1, 161
+  size: 96, 177
+  orig: 96, 177
+  offset: 0, 0
+  index: -1
+car22
+  rotate: false
+  xy: 1, 1
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1
+car26
+  rotate: false
+  xy: 101, 589
+  size: 97, 177
+  orig: 97, 177
+  offset: 0, 0
+  index: -1
+car27
+  rotate: false
+  xy: 200, 595
+  size: 97, 175
+  orig: 97, 175
+  offset: 0, 0
+  index: -1
+car24
+  rotate: false
+  xy: 99, 346
+  size: 96, 175
+  orig: 96, 175
+  offset: 0, 0
+  index: -1
+car10
+  rotate: false
+  xy: 99, 175
+  size: 98, 169
+  orig: 98, 169
+  offset: 0, 0
+  index: -1
+car23
+  rotate: false
+  xy: 90, 1
+  size: 85, 158
+  orig: 85, 158
+  offset: 0, 0
+  index: -1
+car3
+  rotate: false
+  xy: 177, 5
+  size: 98, 168
+  orig: 98, 168
+  offset: 0, 0
+  index: -1
+car11
+  rotate: false
+  xy: 299, 653
+  size: 98, 168
+  orig: 98, 168
+  offset: 0, 0
+  index: -1
+car9
+  rotate: false
+  xy: 399, 657
+  size: 100, 168
+  orig: 100, 168
+  offset: 0, 0
+  index: -1
+car5
+  rotate: false
+  xy: 501, 656
+  size: 98, 168
+  orig: 98, 168
+  offset: 0, 0
+  index: -1
+car4
+  rotate: false
+  xy: 601, 656
+  size: 97, 168
+  orig: 97, 168
+  offset: 0, 0
+  index: -1
+car2
+  rotate: false
+  xy: 700, 657
+  size: 90, 167
+  orig: 90, 167
+  offset: 0, 0
+  index: -1
+car20
+  rotate: false
+  xy: 792, 666
+  size: 86, 158
+  orig: 86, 158
+  offset: 0, 0
+  index: -1
+car19
+  rotate: false
+  xy: 880, 672
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1
+car21
+  rotate: false
+  xy: 299, 495
+  size: 86, 156
+  orig: 86, 156
+  offset: 0, 0
+  index: -1
