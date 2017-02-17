@@ -1,9 +1,9 @@
-package com.frappagames.taxikid.client;
+package com.frappagames.kidracer.client;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.frappagames.taxikid.TaxiKid;
+import com.frappagames.kidracer.KidRacer;
 
 public class HtmlLauncher extends GwtApplication {
 
@@ -14,6 +14,6 @@ public class HtmlLauncher extends GwtApplication {
 
         @Override
         public ApplicationListener createApplicationListener () {
-                return new TaxiKid();
+                return new KidRacer();
         }
 }

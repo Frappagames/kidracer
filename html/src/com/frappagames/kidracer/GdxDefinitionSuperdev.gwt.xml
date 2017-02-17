@@ -3,7 +3,7 @@
 <module rename-to="html">
 	<inherits name='com.badlogic.gdx.backends.gdx_backends_gwt' />
 
-    <inherits name='com.frappagames.taxikid.GdxDefinition' />
+    <inherits name='com.frappagames.kidracer.GdxDefinition' />
     
     <collapse-all-properties />
     

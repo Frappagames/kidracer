@@ -18,7 +18,7 @@ android {
         exclude 'META-INF/robovm/ios/robovm.xml'
     }
     defaultConfig {
-        applicationId "com.frappagames.taxikid"
+        applicationId "com.frappagames.kidracer"
         minSdkVersion 8
         targetSdkVersion 25
     }
@@ -71,7 +71,7 @@ task run(type: Exec) {
     }
 
     def adb = path + "/platform-tools/adb"
-    commandLine "$adb", 'shell', 'am', 'start', '-n', 'com.frappagames.taxikid/com.frappagames.taxikid.AndroidLauncher'
+    commandLine "$adb", 'shell', 'am', 'start', '-n', 'com.frappagames.kidracer/com.frappagames.kidracer.AndroidLauncher'
 }
 
 // sets up the Android Eclipse project, using the old Ant based build.
